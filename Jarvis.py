@@ -286,47 +286,6 @@
                         They both are have uniqe voice. They have some own composotions like In-Aankho, jhaha mera, chhaahat but , my personal fav is in aankho.
                         ''')
                         audio.runAndWait()
-                    elif 'devil' in friend:
-                        audio.say('''He is one of your brother ravi a k a kings devil, he is living in kutch gujrat, he is also your B G M I partner and he is the upcoming member of team Eagles for T3 custom.
-                        Devil like to do party on weekends
-                        ''')
-                        audio.say("and ya.... after 2 peg he doesnot need any kind of scope in B G M I. ")
-                        audio.say("he become sharp shooter. ha... ha... ha...")
-                        audio.runAndWait()
-                    elif 'daksh' in friend:
-                        audio.say('''He is your B G M I partner. eagle daksh.
-                          he is claw player with full gyroscop and he loves L M G in B G M I.
-                         ''')
-                        audio.say('''He is kavan's best friend ''')
-                        audio.runAndWait()
-    
-                    elif 'mahendra' in friend or 'mahindra' in friend:
-                        audio.say('''He is your B G M I partner eagle M H.
-                          you and M H are deadly duo in B G M I.
-                         ''')
-                        audio.say('''He loves watching fight between kavan and daksh ''')
-                        audio.runAndWait()
-    
-                    elif 'kavan' in friend:
-                        audio.say('''he is a altra conqueror bot.
-                         ''')
-                        audio.say('''He loves fighting with bots. ''')
-                        audio.runAndWait()
-    
-                    elif 'kareena' in friend:
-                        audio.say('''she is your elder sister. she is ranker was ranker in BCA.
-                         ''')
-                        audio.say('''Right now she is teacher in English medium school''')
-                        audio.runAndWait()
-    
-                    elif 'kash' in friend or 'cash' in friend:
-                        audio.say('''He is one your brother kashyap As known as kash ravan.
-                         he is pro player in B G M I. 
-                          his wife name is Binal and daughter name shaanvi.
-                         ''')
-                        audio.say('''Right now he is working in P B Global limited''')
-                        audio.say('''He's Best friend name is Tushaar...''')
-                        audio.runAndWait()
     
                     elif 'rakesh' in friend or 'raklo' in friend:
                         audio.say('''How forgot this person. this is one and only your best friend.
